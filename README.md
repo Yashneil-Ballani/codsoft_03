@@ -1,1 +1,4 @@
 # codsoft_03
+Task 03 - ATM Interface
+
+The ATM system is implemented using two classes: one for the ATM machine and another for the user's bank account. The ATM class contains methods for withdrawal, deposit, and balance checking, while the user account class stores the account balance. The classes are connected to enable the ATM to access and modify the account balance. User input is validated to ensure it meets acceptable limits, such as having sufficient funds for withdrawals. The system provides a user-friendly interface with clear messages, informing users about the outcomes of their transactions—whether successful or unsuccessful—and guiding them through various banking operations seamlessly. This modular and interconnected design ensures a secure and efficient user experience with the ATM machine.
